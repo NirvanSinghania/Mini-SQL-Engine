@@ -1,7 +1,7 @@
 # Mini-SQL-Engine
 A Mini-SqlEngine For DBMS
 
-#Properties
+# Properties
 
 - Handles only select queries
 - Data supported is only integers
